@@ -9,13 +9,13 @@ Instructions for using this template
 - Activate an environment with the cookiecutter package installed. If one doesn't exist, create one and install cookiecutter, e.g., `pip install cookiecutter`.
 
 **Step 2 - Downloading the template**
-- From a terminal in the root `Projects` folder, run `cookiecutter https://github.com/bryancshepherd/ds_template.git`. 
+- From a terminal in the root `Projects` folder, run `cookiecutter https://github.com/bryancshepherd/dstemplate.git`. 
 
 **Step 3 - Making the cookies**
 - Follow the prompts. This will create a project folder in the current directory.
 
 **Step 4 - Environment Management**
-- Run `pip install -r requirements.txt` to make sure that all dependencies are included.
+- Run `pip install -r requirements.txt` to install current versions of basic dependencies like pandas and Flask.
 
 
 Project Organization
