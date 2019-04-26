@@ -61,13 +61,13 @@ docs/_build/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-data/
+# data/
 
 # Mac OS-specific storage files
 .DS_Store
 
 # Model object pickles
-model_objects/
+# model_objects/
 
 # Dashboard tables
 app/tables/
