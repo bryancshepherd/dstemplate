@@ -15,7 +15,7 @@ Instructions for using this template
 - Follow the prompts. This will create a project folder in the current directory.
 
 **Step 4 - Environment Management**
-- Run `pip install -r requirements.txt` to make sure that all dependencies are included.
+- Run `pip install -r requirements.txt` to install current versions of basic dependencies like pandas and Flask.
 
 
 Project Organization
