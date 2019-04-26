@@ -1,0 +1,11 @@
+{
+    "project_name": "project_name",
+    "repo_name": "skynet_{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "Your name (or your organization/company/team)",
+    "project_description": "A short description of the project.",
+    "_copy_without_render": [
+        "*.html",
+        "*not_rendered_dir",
+        "rendered_dir/not_rendered_file.ini"
+    ]
+}
